@@ -16,7 +16,7 @@ A Realtime and responsive weather forecasting web application.
 - Weather API
 
 ## Live Demo
-[Coming soon with GitHub Pages]
+https://deekshitha-sys-tech.github.io/Weather-Forecasting-app/
 
 ## Setup
 1. Clone the repository
